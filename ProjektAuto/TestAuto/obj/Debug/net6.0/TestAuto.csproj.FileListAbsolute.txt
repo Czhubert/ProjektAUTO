@@ -1,0 +1,15 @@
+H:\ProjektAuto\TestAuto\bin\Debug\net6.0\TestAuto.exe
+H:\ProjektAuto\TestAuto\bin\Debug\net6.0\TestAuto.deps.json
+H:\ProjektAuto\TestAuto\bin\Debug\net6.0\TestAuto.runtimeconfig.json
+H:\ProjektAuto\TestAuto\bin\Debug\net6.0\TestAuto.dll
+H:\ProjektAuto\TestAuto\bin\Debug\net6.0\TestAuto.pdb
+H:\ProjektAuto\TestAuto\obj\Debug\net6.0\TestAuto.csproj.AssemblyReference.cache
+H:\ProjektAuto\TestAuto\obj\Debug\net6.0\TestAuto.GeneratedMSBuildEditorConfig.editorconfig
+H:\ProjektAuto\TestAuto\obj\Debug\net6.0\TestAuto.AssemblyInfoInputs.cache
+H:\ProjektAuto\TestAuto\obj\Debug\net6.0\TestAuto.AssemblyInfo.cs
+H:\ProjektAuto\TestAuto\obj\Debug\net6.0\TestAuto.csproj.CoreCompileInputs.cache
+H:\ProjektAuto\TestAuto\obj\Debug\net6.0\TestAuto.dll
+H:\ProjektAuto\TestAuto\obj\Debug\net6.0\refint\TestAuto.dll
+H:\ProjektAuto\TestAuto\obj\Debug\net6.0\TestAuto.pdb
+H:\ProjektAuto\TestAuto\obj\Debug\net6.0\TestAuto.genruntimeconfig.cache
+H:\ProjektAuto\TestAuto\obj\Debug\net6.0\ref\TestAuto.dll
